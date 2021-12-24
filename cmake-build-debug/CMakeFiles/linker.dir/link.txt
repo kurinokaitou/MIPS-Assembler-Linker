@@ -1,0 +1,3 @@
+"D:\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\linker.dir/objects.a
+D:\msys64\mingw64\bin\ar.exe cr CMakeFiles\linker.dir/objects.a @CMakeFiles\linker.dir\objects1.rsp
+D:\msys64\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\linker.dir/objects.a -Wl,--no-whole-archive -o linker.exe -Wl,--out-implib,liblinker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\linker.dir\linklibs.rsp

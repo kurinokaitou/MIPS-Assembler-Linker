@@ -1,0 +1,27 @@
+[
+{
+  "directory": "E:/Projects/Assembly&Link/Experiment1/build",
+  "command": "D:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe   -g -std=gnu99 -o CMakeFiles/linker.dir/linker.c.obj -c \"E:/Projects/Assembly&Link/Experiment1/linker.c\"",
+  "file": "E:/Projects/Assembly&Link/Experiment1/linker.c"
+},
+{
+  "directory": "E:/Projects/Assembly&Link/Experiment1/build",
+  "command": "D:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe   -g -std=gnu99 -o CMakeFiles/linker.dir/my_assembler_utils.c.obj -c \"E:/Projects/Assembly&Link/Experiment1/my_assembler_utils.c\"",
+  "file": "E:/Projects/Assembly&Link/Experiment1/my_assembler_utils.c"
+},
+{
+  "directory": "E:/Projects/Assembly&Link/Experiment1/build",
+  "command": "D:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe   -g -std=gnu99 -o CMakeFiles/linker.dir/my_linker_utils.c.obj -c \"E:/Projects/Assembly&Link/Experiment1/my_linker_utils.c\"",
+  "file": "E:/Projects/Assembly&Link/Experiment1/my_linker_utils.c"
+},
+{
+  "directory": "E:/Projects/Assembly&Link/Experiment1/build",
+  "command": "D:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe   -g -std=gnu99 -o CMakeFiles/assembler.dir/assembler.c.obj -c \"E:/Projects/Assembly&Link/Experiment1/assembler.c\"",
+  "file": "E:/Projects/Assembly&Link/Experiment1/assembler.c"
+},
+{
+  "directory": "E:/Projects/Assembly&Link/Experiment1/build",
+  "command": "D:/msys64/mingw64/bin/x86_64-w64-mingw32-gcc.exe   -g -std=gnu99 -o CMakeFiles/assembler.dir/my_assembler_utils.c.obj -c \"E:/Projects/Assembly&Link/Experiment1/my_assembler_utils.c\"",
+  "file": "E:/Projects/Assembly&Link/Experiment1/my_assembler_utils.c"
+}
+]
