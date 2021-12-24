@@ -1,4 +1,0 @@
-E:/Projects/Assembly&Link/Experiment1/build/CMakeFiles/linker.dir
-E:/Projects/Assembly&Link/Experiment1/build/CMakeFiles/assembler.dir
-E:/Projects/Assembly&Link/Experiment1/build/CMakeFiles/edit_cache.dir
-E:/Projects/Assembly&Link/Experiment1/build/CMakeFiles/rebuild_cache.dir
